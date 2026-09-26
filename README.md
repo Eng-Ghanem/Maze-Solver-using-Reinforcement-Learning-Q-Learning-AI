@@ -160,4 +160,7 @@ Maze-Solver-using-Reinforcement-Learning-Q-Learning-AI/
 
 ## Author
 
-- **Mohamed Ghanem** - [Eng-Ghanem](https://github.com/Eng-Ghanem)
+- **Mohamed Ghanem**
+  - **GitHub**: [Eng-Ghanem](https://github.com/Eng-Ghanem)
+  - **LinkedIn**: [Mohamed Ghanem](https://www.linkedin.com/in/mohamed-ghanem-88346538a)
+  - **Email**: [mohamed.ghanem26g@gmail.com](mailto:mohamed.ghanem26g@gmail.com)
