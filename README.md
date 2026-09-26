@@ -4,6 +4,19 @@ An autonomous maze navigation agent engineered in Python using tabular **Q-Learn
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [Reinforcement Learning Hyperparameters](#reinforcement-learning-hyperparameters)
+- [System Architecture](#system-architecture)
+- [Project Structure](#project-structure)
+- [Visual Demonstration](#visual-demonstration)
+- [Installation & Running](#installation--running)
+- [Video & Documentation](#video--documentation)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Tabular Q-Learning Engine (`q_learning.py`)**:
